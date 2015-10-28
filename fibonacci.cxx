@@ -4,7 +4,7 @@ int main(){
   int N;
     cout << "Bitte Zahl N als Folgenindex eingeben!" << endl;
     cin >> N;
-    cout << "<< N << "  wurde eingegeben" << endl;
+    cout << N << "  wurde eingegeben" << endl;
 
  int f0=0;
  int f1=1;
