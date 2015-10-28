@@ -2,9 +2,9 @@
 using namespace std;
 int main(){
   int N;
-    cout << "Bitte Zahl N eingeben!" << endl;
+    cout << "Bitte Zahl N als Folgenindex eingeben!" << endl;
     cin >> N;
-    cout << "Danke. Sie haben " << N << " eingegeben" << endl;
+    cout << "<< N << "  wurde eingegeben" << endl;
 
  int f0=0;
  int f1=1;
